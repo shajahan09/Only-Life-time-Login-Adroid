@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87652275993",
+    "firebase_url": "https://testonetimeotp.firebaseio.com",
+    "project_id": "testonetimeotp",
+    "storage_bucket": "testonetimeotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87652275993:android:a6fc0a266360f1fe399788",
+        "android_client_info": {
+          "package_name": "com.excillenceict.sp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87652275993-00jusshs6pptgn41ra0i61d6qs4uv3av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpC_tDTs-hUD16yTRJiNYlvhKsNfcL5Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87652275993-00jusshs6pptgn41ra0i61d6qs4uv3av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
