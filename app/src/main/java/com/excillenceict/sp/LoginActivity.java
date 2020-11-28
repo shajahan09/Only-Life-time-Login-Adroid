@@ -38,6 +38,7 @@ public class LoginActivity extends AppCompatActivity {
 //                    sprf.secoundItem();
                 }else {
                     Toast.makeText(LoginActivity.this, "Incorrect", Toast.LENGTH_SHORT).show();
+					//jdkjfkdjkfj
                 }
             }
         });
